@@ -1,0 +1,18 @@
+{
+  "date": "2026-05-01",
+  "sentences": [
+    {
+      "id": "s_20260501_001",
+      "japanese": "今日の一文をここに入れてください。",
+      "reading": "きょうのいちぶんをここにいれてください。",
+      "chinese": "请在这里填入今天学习的句子。",
+      "english": "Please put today's sentence here.",
+      "source": "manual",
+      "scene": "示例占位",
+      "jlpt_target": "N3",
+      "ai_generated": false,
+      "word_ids": [],
+      "notes": "这是模板，替换成你今天学的真实句子"
+    }
+  ]
+}
