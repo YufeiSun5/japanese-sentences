@@ -82,7 +82,7 @@
     {
       "id": "s_20260503_007",
       "japanese": "サーバー側の処理が終わったら、私に渡してください。",
-      "reading": "さーばーがわのしょりがおわったら、わたしにわたしてください。",
+      "reading": "さあばあがわのしょりがおわったら、わたしにわたしてください。",
       "chinese": "服务器这边处理完之后，请交给我。",
       "english": "After the server-side processing is finished, please hand it to me.",
       "source": "manual",
@@ -95,7 +95,7 @@
     {
       "id": "s_20260503_008",
       "japanese": "サーバー側の修理が終わったら、私に渡してください。",
-      "reading": "さーばーがわのしゅうりがおわったら、わたしにわたしてください。",
+      "reading": "さあばあがわのしゅうりがおわったら、わたしにわたしてください。",
       "chinese": "服务器这边修理完之后，请交给我。",
       "english": "After the server-side repair is finished, please hand it to me.",
       "source": "manual",
@@ -121,7 +121,7 @@
     {
       "id": "s_20260503_010",
       "japanese": "サイトをアップデートする前に。",
-      "reading": "さいとをあっぷでーとするまえに。",
+      "reading": "さいとをあっぷでえとするまえに。",
       "chinese": "在更新网站之前。",
       "english": "Before updating the website.",
       "source": "manual",
@@ -186,7 +186,7 @@
     {
       "id": "s_20260503_015",
       "japanese": "一番ゲートに置いてください。",
-      "reading": "いちばんげーとにおいてください。",
+      "reading": "いちばんげえとにおいてください。",
       "chinese": "请放到1号门。",
       "english": "Please place it at Gate 1.",
       "source": "manual",
@@ -199,7 +199,7 @@
     {
       "id": "s_20260503_016",
       "japanese": "一番ゲートに置かないでください。",
-      "reading": "いちばんげーとにおかないでください。",
+      "reading": "いちばんげえとにおかないでください。",
       "chinese": "请不要放到1号门。",
       "english": "Please do not place it at Gate 1.",
       "source": "manual",
